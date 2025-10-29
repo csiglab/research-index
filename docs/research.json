@@ -20,7 +20,7 @@
       "location": "Santo Domingo",
       "employees": "850",
       "revenue": "$2.1B",
-      "link": "#"
+      "link": "https://bremontix.xyz/lab/research/rd10/"
     },
     {
       "id": 3,
@@ -31,7 +31,7 @@
       "location": "Santo Domingo",
       "employees": "2,100",
       "revenue": "$1.8B",
-      "link": "#"
+      "link": "https://bremontix.xyz/lab/research/grupo-be/"
     }
   ]
 }
