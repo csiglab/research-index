@@ -1,4 +1,4 @@
-site_name: Arbitreria
+site_name: Bremontix Laboratorium
 
 docs_dir: ../docs
 
@@ -19,15 +19,7 @@ markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
 
-# nav:
-#   - Home: docs/Meta/README.md  # This will now be served at /
-#   - About: docs/Meta/Guia-Mayor.md
-    #  - Research: research.html
-
 extra_javascript:
-  # - https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js
-  # - https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js
-  # - js/math.js  # We'll create this
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
