@@ -11,6 +11,9 @@ fi
 ## Activate the virtual environment
 source env/bin/activate
 
+## Updating Repository
+git pull origin main
+
 # Build the project
 cd web
 mkdocs build
