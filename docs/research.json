@@ -37,7 +37,7 @@
       "id": 4,
       "name": "Laboratorium Arbitristae",
       "category": "Laboratory",
-      "icon": "fa-flask",
+      "icon": "fa-network-wired",
       "description": "Espacio para prototipar ideas, investigando y diseñando estrategias para la grandeza tecnológica y productiva de la República Dominicana. Escudo de Armas - Laboratorio Arbitrista",
       "location": "Santiago",
       "employees": "1,100",
@@ -49,12 +49,36 @@
       "parent": 6,
       "name": "Laboratorium Productivum et Mercatorum",
       "category": "Laboratory",
-      "icon": "fa-flask",
+      "icon": "fa-briefcase",
       "description": "Characterize productive systems, design convergence plans with the most sophisticated productive systems, and experiment with new forms of production and business at the frontier.",
       "location": "Santiago",
       "employees": "1,100",
       "revenue": "$950M",
       "link": "https://www.bremontix.xyz/lab/pro/"
+    },
+    {
+      "id": 6,
+      "parent": 6,
+      "name": "Laboratorium Maius Legalis",
+      "category": "Laboratory",
+      "icon": "fa-scale-balanced",
+      "description": "Characterize productive systems, design convergence plans with the most sophisticated productive systems, and experiment with new forms of production and business at the frontier.",
+      "location": "Santiago",
+      "employees": "1,100",
+      "revenue": "$950M",
+      "link": "https://www.bremontix.xyz/lab/legal/"
+    },
+      {
+      "id": 7,
+      "parent": 6,
+      "name": "Laboratorium Maius Studiorum Hispanicorum",
+      "category": "Laboratory",
+      "icon": "fa-scale-balanced",
+      "description": "Characterize productive systems, design convergence plans with the most sophisticated productive systems, and experiment with new forms of production and business at the frontier.",
+      "location": "Santiago",
+      "employees": "1,100",
+      "revenue": "$950M",
+      "link": "https://www.bremontix.xyz/lab/hispan/"
     }
   ]
 }
