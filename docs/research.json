@@ -68,7 +68,7 @@
       "revenue": "$950M",
       "link": "https://www.bremontix.xyz/lab/legal/"
     },
-      {
+    {
       "id": 7,
       "parent": 6,
       "name": "Laboratorium Maius Studiorum Hispanicorum",
@@ -79,6 +79,30 @@
       "employees": "1,100",
       "revenue": "$950M",
       "link": "https://www.bremontix.xyz/lab/hispan/"
+    },
+    {
+      "id": 8,
+      "parent": 6,
+      "name": "Laboratorium Maius Salutis Productorum",
+      "category": "Laboratory",
+      "icon": "fa-user-doctor",
+      "description": "Characterize productive systems, design convergence plans with the most sophisticated productive systems, and experiment with new forms of production and business at the frontier.",
+      "location": "Santiago",
+      "employees": "1,100",
+      "revenue": "$950M",
+      "link": "https://www.bremontix.xyz/lab/salud/"
+    },
+    {
+      "id": 9,
+      "parent": 6,
+      "name": "Laboratorium Maius Technicorum",
+      "category": "Laboratory",
+      "icon": "fa-robot",
+      "description": "Characterize productive systems, design convergence plans with the most sophisticated productive systems, and experiment with new forms of production and business at the frontier.",
+      "location": "Santiago",
+      "employees": "1,100",
+      "revenue": "$950M",
+      "link": "https://www.bremontix.xyz/lab/tecne/"
     }
   ]
 }
